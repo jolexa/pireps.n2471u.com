@@ -2,8 +2,9 @@
 
 The Push-to-Talk (PTT) switch needed to be replaced because it was intermittent.
 As long as you know the proper part, it is pretty simple. About a 15 minute job.
-Disclaimer: I am not a mechanic. Do at your own risk, do not blame me for some
-fault!
+
+:warning: Disclaimer: I am not a mechanic. Do at your own risk, do not blame me
+for some fault or injury! :warning:
 
 This is what the PTT switch looks like on the yoke.
 ![2692](https://s3.us-east-2.amazonaws.com/pireps.n2471u.com/20180509-replace-ptt/IMG_2692.jpeg)
