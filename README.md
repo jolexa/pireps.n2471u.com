@@ -18,4 +18,4 @@ $10 meal costs at least $100 after fuel and plane costs, but we do it because it
 
 
 ## Trips
-No big overnight trips yet
+* [May 12-13, 2018 KTWM - Two Harbors, MN](places/20180512-kmic-ktwm.md)
