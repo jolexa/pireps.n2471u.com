@@ -12,6 +12,7 @@ $10 meal costs at least $100 after fuel and plane costs, but we do it because it
 
 * [April 21, 2018 KSUW "The Upper Deck" Restaurant](places/20180421-kmic-ksuw.md)
 * [April 22, 2018 KBRD "Wings Cafe"](places/20180422-kmic-kbrd.md)
+* [July 6, 2018 KEAU "Hangar 54 Grill"](places/20180706-kmic-keau.md)
 
 ## Maintenance
 * [May 9, 2018 Replace PTT on Yoke](maintenance/20180509-replace-ptt.md)
