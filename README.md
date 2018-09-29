@@ -21,3 +21,4 @@ $10 meal costs at least $100 after fuel and plane costs, but we do it because it
 ## Trips
 * [May 12-13, 2018 KTWM - Two Harbors, MN](places/20180512-kmic-ktwm.md)
 * [May 26-28, 2018 KSUS - Chesterfield, MO](places/20180528-kmic-ksus.md)
+* [July 28, 2018 16D - Perham, MN](places/20180728-kmic-16d.md)
