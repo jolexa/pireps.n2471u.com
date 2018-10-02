@@ -20,7 +20,7 @@ Yay, flying date in our future.
 * Amazing co-pilot to share and help my navigate!
 
 PIREPS:  
-**KBRD** (Brainerd, MN): I've been to Brainard [before](places/20180422-kmic-kbrd.md), nice place.  
+**KBRD** (Brainerd, MN): I've been to Brainard [before](/places/20180422-kmic-kbrd.md), nice place.  
 **09Y** (Bowstring, MN): This was our favorite airport on the circuit. The FBO
 was a old trailer home and the airport manager (and other volunteers) made us
 breakfast sandwiches.  
