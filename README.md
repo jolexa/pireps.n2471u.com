@@ -1,8 +1,8 @@
 # What are PIREPS?
 PIREP stands for `Pilot Report`, basically a first hand account of something.
-This is the home of N2471U, a Piper Archer II (PA-28-181)
+This is the home of N2471U, our Piper Archer II (PA-28-181)
 
-## Random Posts
+## How it all begins...
 * [How it all begins](posts/20170717-how-it-all-begins.md)
 
 
@@ -17,8 +17,12 @@ $10 meal costs at least $100 after fuel and plane costs, but we do it because it
 ## Maintenance
 * [May 9, 2018 Replace PTT on Yoke](maintenance/20180509-replace-ptt.md)
 
-
 ## Trips
+Overnight or otherwise.
 * [May 12-13, 2018 KTWM - Two Harbors, MN](places/20180512-kmic-ktwm.md)
 * [May 26-28, 2018 KSUS - Chesterfield, MO](places/20180528-kmic-ksus.md)
 * [July 28, 2018 16D - Perham, MN](places/20180728-kmic-16d.md)
+
+## Random Places or Events
+* [August 6, 2018 18Y - Milaca, MN](places/20180906-kmic-18y.md)
+* [August 8, 2018 KBRD Poker Run](places/20180908-kbrd-poker-run.md)
