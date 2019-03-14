@@ -8,11 +8,13 @@ This is the home of N2471U, our Piper Archer II (PA-28-181)
 
 ## $100 Hamburgers
 A `$100 Hamburger` is what pilots say when they fly somewhere to get lunch. The
-$10 meal costs at least $100 after fuel and plane costs, but we do it because it is fun!
+$10 meal costs at least $100 after fuel and plane costs, but we do it because it
+is fun!
 
 * [April 21, 2018 KSUW "The Upper Deck" Restaurant](places/20180421-kmic-ksuw.md)
 * [April 22, 2018 KBRD "Wings Cafe"](places/20180422-kmic-kbrd.md)
 * [July 6, 2018 KEAU "Hangar 54 Grill"](places/20180706-kmic-keau.md)
+* [January 5, 2019 55Y "The Bite"](places/20190105-kmic-55y.md)
 
 ## Maintenance
 * [May 9, 2018 Replace PTT on Yoke](maintenance/20180509-replace-ptt.md)
