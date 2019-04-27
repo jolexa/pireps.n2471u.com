@@ -28,5 +28,5 @@ Overnight or otherwise.
 * [August 13-19, 2019 - Door County, WI](places/20180813-kmic-ktwm-ksue.md)
 
 ## Random Places or Events
-* [August 6, 2018 18Y - Milaca, MN](places/20180906-kmic-18y.md)
-* [August 8, 2018 KBRD Poker Run](places/20180908-kbrd-poker-run.md)
+* [September 6, 2018 18Y - Milaca, MN](places/20180906-kmic-18y.md)
+* [September 8, 2018 KBRD Poker Run](places/20180908-kbrd-poker-run.md)
