@@ -25,6 +25,7 @@ Overnight or otherwise.
 * [May 12-13, 2018 KTWM - Two Harbors, MN](places/20180512-kmic-ktwm.md)
 * [May 26-28, 2018 KSUS - Chesterfield, MO](places/20180528-kmic-ksus.md)
 * [July 28, 2018 16D - Perham, MN](places/20180728-kmic-16d.md)
+* [August 13-19, 2019 - Door County, WI](places/20180813-kmic-ktwm-ksue.md)
 
 ## Random Places or Events
 * [August 6, 2018 18Y - Milaca, MN](places/20180906-kmic-18y.md)
