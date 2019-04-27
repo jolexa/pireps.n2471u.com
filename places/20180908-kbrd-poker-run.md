@@ -9,6 +9,8 @@ some event like this. The event was a "Poker Run" -- where you pick up a card
 for your poker hand at each airport then the highest hand wins. It is not a
 race.
 
+![0](https://s3.us-east-2.amazonaws.com/pireps.n2471u.com/20180908-kbrd-poker-run/flyer.jpeg)
+
 Highlights:
 * Great VFR weather for all legs, slight crosswind at one airport but otherwise
 prevailing winds at the rest of the airports.
@@ -17,7 +19,7 @@ paths.
 * Meeting random people in small aircraft, enjoying the sport.
 * Third place winning hand! $100 gift card to [Madden's on Gull Lake](https://www.maddens.com/).
 Yay, flying date in our future.
-* Amazing co-pilot to share and help my navigate!
+* Amazing co-pilot to share and help me navigate!
 
 PIREPS:  
 **KBRD** (Brainerd, MN): I've been to Brainard [before](/places/20180422-kmic-kbrd.md), nice place.  
