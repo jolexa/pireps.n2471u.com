@@ -17,7 +17,7 @@ prevailing winds at the rest of the airports.
 * Navigating 30+ aircraft all flying around the same airports in different
 paths.
 * Meeting random people in small aircraft, enjoying the sport.
-* Third place winning hand! $100 gift card to [Madden's on Gull Lake](https://www.maddens.com/).
+* I had the third place winning hand! (Sheer luck!) $100 gift card to [Madden's on Gull Lake](https://www.maddens.com/).
 Yay, flying date in our future.
 * Amazing co-pilot to share and help me navigate!
 
@@ -64,7 +64,5 @@ all! :smile:
 ![11](https://s3.us-east-2.amazonaws.com/pireps.n2471u.com/20180908-kbrd-poker-run/IMG_0144.jpeg)
 
 ![12](https://s3.us-east-2.amazonaws.com/pireps.n2471u.com/20180908-kbrd-poker-run/IMG_0145.jpeg)
-
-![13](https://s3.us-east-2.amazonaws.com/pireps.n2471u.com/20180908-kbrd-poker-run/IMG_0146.jpeg)
 
 ![15](https://s3.us-east-2.amazonaws.com/pireps.n2471u.com/20180908-kbrd-poker-run/IMG_0148.jpeg)
