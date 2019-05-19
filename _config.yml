@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 plugins:
   - jemoji
-readme_index:
-  enabled:          true
-  remove_originals: false
-
+  - jekyll-titles-from-headings
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
