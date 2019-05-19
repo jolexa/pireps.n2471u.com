@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 plugins:
   - jemoji
+readme_index:
+  enabled:          true
+  remove_originals: false
+
