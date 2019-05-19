@@ -5,5 +5,4 @@ plugins:
   - jekyll-optional-front-matter
   - jekyll-readme-index
   - jekyll-default-layout
-repository: username/repo-name
-
+repository: jolexa/pireps.n2471u.com
