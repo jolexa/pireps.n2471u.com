@@ -19,6 +19,7 @@ is fun!
 ## Maintenance
 * [May 9, 2018 Replace PTT on Yoke](maintenance/20180509-replace-ptt.md)
 * [April 17, 2019 Replace Landing Light with LED](maintenance/20190417-replace-landing-light.md)
+* [May 21, 2019 Replace ELT Battery](maintenance/20190521-replace-elt-battery.md)
 
 ## Trips
 Overnight or otherwise.
