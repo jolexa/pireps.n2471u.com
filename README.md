@@ -31,3 +31,4 @@ Overnight or otherwise.
 ## Random Places or Events
 * [September 6, 2018 18Y - Milaca, MN](places/20180906-kmic-18y.md)
 * [September 8, 2018 KBRD Poker Run](places/20180908-kbrd-poker-run.md)
+* [2020 - Big Nothing Year](posts/2020-big-nothing-year.md)
